@@ -4,18 +4,18 @@ Gunakan Dengan Bijak Tools Ini
 Pembuat R1punk 
 
 # Perintah :
-$ pkg update && pkg upgrade
-$ pkg install git
-$ pkg install python3
-$ git clone https://github.com/AzzamCyber/InstaTools
-$ cd RunTools.py
-$ pip3 install -r requirements.txt
-$ python Run.py
+    $ pkg update && pkg upgrade
+    $ pkg install git
+    $ pkg install python3
+    $ git clone https://github.com/AzzamCyber/InstaTools
+    $ cd Qlizz
+    $ pip3 install -r requirements.txt
+    $ python RunTools
 
 # Update Tools :
-$ cd $HOME/Qlizz
-$ git pull
-$ python RunTools.py
+    $ cd $HOME/InstaTools
+    $ git pull
+    $ python RunTools.py
 
 # Follow Social Media AzzamCyber
 IG : @dutahacker
